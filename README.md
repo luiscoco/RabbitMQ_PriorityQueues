@@ -9,3 +9,7 @@
 ![Priority Queues 3](https://github.com/luiscoco/RabbitMQ_PriorityQueues/assets/32194879/d7f6c27d-366f-44d8-9593-f3278800a768)
 
 
+![Priority Queues 4](https://github.com/luiscoco/RabbitMQ_PriorityQueues/assets/32194879/ed53089a-e40d-4e94-88c8-8781b9c57398)
+
+
+
